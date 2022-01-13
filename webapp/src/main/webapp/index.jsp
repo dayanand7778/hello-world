@@ -9,7 +9,11 @@
 		<tr>
 			<td>
 				Email Address:
-			</td>
+			<
+	
+
+
+			/td>
 
 			<td>
 				<input type=”mail”  placeholder=”Email” name=””>
